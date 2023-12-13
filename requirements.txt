@@ -1,1 +1,5 @@
-test
+cprint
+requests
+azure-identity
+azure-keyvault
+elasticsearch
